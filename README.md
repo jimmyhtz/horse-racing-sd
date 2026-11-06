@@ -16,7 +16,7 @@ Download the package for your computer from [Releases](https://github.com/jimmyh
 
 The first public version is a prerelease. Windows is the primary locally tested platform. The native CI checks cover parsing, help, and packaged startup where a runner is available. A complete interactive and audio test on macOS and Linux still needs community testing. The Windows installer is unsigned. Operating systems may show an unidentified-publisher prompt. Do not disable system protections. Read the release notes and use only downloads from this repository.
 
-Start with [Quick Start](docs/QUICK_START.html), or press **F1** in the game. Each Settings page and setting has context-sensitive help. The [full manual](docs/USER_MANUAL.html) is also available offline beside the installed game.
+Start with the [online Quick Start](https://jimmyhtz.github.io/horse-racing-sd/QUICK_START.html), or press **F1** in the game. Each Settings page and setting has context-sensitive help. The [full manual](https://jimmyhtz.github.io/horse-racing-sd/USER_MANUAL.html) and quick start are also available offline beside the installed game.
 
 ## What is included
 
